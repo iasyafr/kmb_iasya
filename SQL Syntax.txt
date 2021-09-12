@@ -1,0 +1,17 @@
+--Order By
+Select kolom1, kolom 2,...
+From nama_tabel
+Order BY coloumn asc;
+
+--Insert Into
+Insert into nama_tabel VALUES (nilai1, nilai2, nilai 3,..);
+
+
+--DELETE
+Delete from
+table_name where condition;
+
+SELECT
+SELECT kolom1, kolom2, ... FROM nama_tabel;
+atau
+SELECT * FROM nama_tabel;
